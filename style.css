@@ -1,0 +1,36 @@
+body {
+	background-color: #bbbbbb;
+}
+
+#wrppr {
+	margin: auto;
+	width: 300px;
+	height: 200px;
+	background-color: #cccccc;
+	padding: 10px;
+	font-family: sans-serif;
+}
+
+
+#wrppr h3 {
+	margin-top: 0px;
+	text-align: center;
+}
+
+select {
+	height: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+#wrppr button {
+	height: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+#wrppr #dsply {
+	font-size: 17px;
+}
